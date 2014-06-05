@@ -17,6 +17,18 @@ body {
 
 }
 
+.home-page {
+    height: 100%;
+}
+
+.about-page {
+    height: 100%;
+    background-image:url("background3.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 8px -10px 5px -10px;
+}
+
 .name {
     padding-left: 20px;
     padding-top: 20px;
@@ -36,9 +48,31 @@ body {
     left:50%;
     top:50%;
     bottom: 50%;
-    margin: -30px 0 0 -400px;
+    margin: -30px 0 0 -375px;
     color: #FFFFFF;
     text-align: center;
+}
+
+.about-center {
+    font-size: 30px;
+    width: 750px;
+    height: 350px;
+
+    position:absolute;
+    left:50%;
+    top:150%;
+    bottom: 50%;
+    margin: -190px 0 0 -400px;
+    color: #FFFFFF;
+    text-align: center;
+
+    background: rgba(25, 25, 25, .4);
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+    line-height: 55px;
 }
 
 .social {
@@ -53,5 +87,16 @@ body {
 
 .social-icon {
     padding-left: 30px;
+    padding-right: 30px;
+}
+
+.about-content {
+    font-size: 24px;
+}
+
+.nav-links {
+    float: right;
+    font-size: 25px;
+
     padding-right: 30px;
 }
