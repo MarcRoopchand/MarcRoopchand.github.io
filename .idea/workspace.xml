@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/background/about-background.JPG" afterPath="$PROJECT_DIR$/images/background/about-background.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/background/homepage-background.JPG" afterPath="$PROJECT_DIR$/images/background/homepage-background.JPG" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
