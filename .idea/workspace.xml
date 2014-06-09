@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/background/about-background.JPG" afterPath="$PROJECT_DIR$/images/background/about-background.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/background/homepage-background.JPG" afterPath="$PROJECT_DIR$/images/background/homepage-background.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="4" selection-start="192" selection-end="1193" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="2010">
+            <state line="30" column="12" selection-start="1171" selection-end="1171" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="2010">
               <folding />
             </state>
           </provider>
@@ -38,10 +38,8 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="12" selection-start="722" selection-end="722" vertical-scroll-proportion="0.78512394" vertical-offset="75" max-vertical-offset="2715">
-              <folding>
-                <marker date="1402178642000" expanded="true" signature="2614:2655" placeholder="..." />
-              </folding>
+            <state line="142" column="14" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.46071905" vertical-offset="1784" max-vertical-offset="2535">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -192,6 +190,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="4" selection-start="192" selection-end="1193" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2010">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="2715">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="16" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1860">
           <folding />
         </state>
@@ -200,25 +212,21 @@
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="136" column="19" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="2400">
-          <folding>
-            <marker date="1402178642000" expanded="true" signature="2614:2655" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="4" selection-start="192" selection-end="1193" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="2010">
+        <state line="30" column="12" selection-start="1171" selection-end="1171" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="2010">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="12" selection-start="722" selection-end="722" vertical-scroll-proportion="0.78512394" vertical-offset="75" max-vertical-offset="2715">
-          <folding>
-            <marker date="1402178642000" expanded="true" signature="2614:2655" placeholder="..." />
-          </folding>
+        <state line="142" column="14" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.46071905" vertical-offset="1784" max-vertical-offset="2535">
+          <folding />
         </state>
       </provider>
     </entry>
