@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Uken Game Challenge</title>
+    <link rel="stylesheet" href="game.css" media="screen" title="no title" charset="utf-8">
+    <script type='text/javascript' src='game.js'></script>
+  </head>
+  <body onload="onload()">
+    <article class="game-area">
+      <div class="heading">
+        <div class="timer">
+          <span>Time Remaining: </span><span id="timer">0</span>
+        </div>
+        <div class="score">
+          <span>Score: </span><span id="score">0</span>
+        </div>
+      </div>
+      <canvas id="game-canvas" class="disabled"></canvas>
+      <div class="end-game hidden" id="end-game-text">WINNER!</div>
+      <div class="menu">
+        <span class="button" id="new-game">New Game</span>
+        <span class="button disabled" id="increment-timer">Increment Timer x3</span>
+        <span class="button disabled" id="hint">Hint x3</span>
+      </div>
+    </article>
+
+    <article class="hidden">
+      <img id="facebook" class="hidden" src="images/facebook.png" alt=""/>
+      <img id="linkedin" class="hidden" src="images/linkedin.png" alt=""/>
+      <img id="twitter" class="hidden" src="images/twitter.png" alt=""/>
+      <img id="amazon" class="hidden" src="images/amazon.png" alt=""/>
+      <img id="google-plus" class="hidden" src="images/google_plus.png" alt=""/>
+      <img id="instagram" class="hidden" src="images/instagram.png" alt=""/>
+      <img id="pinterest" class="hidden" src="images/pinterest.png" alt=""/>
+      <img id="skype" class="hidden" src="images/skype.png" alt=""/>
+      <img id="you-tube" class="hidden" src="images/you-tube.png" alt=""/>
+      <img id="rss" class="hidden" src="images/rss.png" alt=""/>
+    </article>
+  </body>
+</html>
