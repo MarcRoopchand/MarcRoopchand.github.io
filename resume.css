@@ -47,46 +47,15 @@ header {
     color: #e74c3c;
 }
 
-.separation {
-    clear: both;
-    color: #bdc3c7;
-    border-top-style: solid;
-    border-top-width: 1px;
+/* Content styling */
+.page-content {
+    color: #2c3e50;
 }
 
-.social {
-    position:absolute;
-    width: 300px;
-    height: 60px;
-    left:50%;
-    bottom:0%;
-    margin: 0px 0 0 -150px;
-    padding-bottom: 20px;
-    text-align: center;
-}
-
-.social-icon {
-    background-color: #2c3e50;
-    margin-left: 20px;
-    padding: 5px;
-    border-radius: 150px;
-}
-
-.social-icon:hover {
-    cursor: pointer;
+.page-top-decoration {
+    width: 100%;
+    height: 15px;
     background-color: #e74c3c;
-}
-
-
-.homepage-center {
-    position:absolute;
-    top:50%;
-    left:50%;
-
-    width: 400px;
-    height: 400px;
-    margin: -200px 0 0 -200px;
-    text-align: center;
 }
 
 .resume-heading {
@@ -121,4 +90,82 @@ header {
     font-size: 25px;
     line-height: 35px;
     color: #7f8c8d;
+}
+
+.social {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.social-icon {
+    background-color: #2c3e50;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 150px;
+}
+
+.social-icon:hover {
+    cursor: pointer;
+    background-color: #e74c3c;
+}
+.separation {
+    clear: both;
+    color: #bdc3c7;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.work-experience {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow: auto;
+}
+
+.left-content {
+    float: left;
+    width: 23%;
+    margin-right: 50px;
+
+    font-size: 33px;
+    color: #7f8c8d;
+    overflow: auto;
+}
+
+.right-content {
+    float: left;
+    width: 72%;
+    overflow: auto;
+}
+
+.experience {
+    padding-bottom: 30px;
+}
+
+.experience .title {
+    float: left;
+}
+
+.experience .title .title-name {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.experience .title .title-location {
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.date {
+    float: right;
+    font-size: 20px;
+    background-color: #e74c3c;
+    color: #FCFCFC;
+    padding: 15px;
+}
+
+.work-content {
+    clear: both;
+    line-height: 35px;
 }

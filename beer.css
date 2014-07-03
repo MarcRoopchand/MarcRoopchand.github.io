@@ -47,22 +47,19 @@ header {
     color: #e74c3c;
 }
 
-.separation {
-    clear: both;
-    color: #bdc3c7;
-    border-top-style: solid;
-    border-top-width: 1px;
+/* Content styling */
+.page-heading {
+    color: #e74c3c;
+    text-align: center;
+    font-size: 40px;
+    padding: 100px;
 }
 
 .social {
-    position:absolute;
-    width: 300px;
-    height: 60px;
-    left:50%;
-    bottom:0%;
-    margin: 0px 0 0 -150px;
-    padding-bottom: 20px;
+    clear: both;
     text-align: center;
+    padding-bottom: 20px;
+    padding-top: 50px;
 }
 
 .social-icon {
@@ -76,49 +73,41 @@ header {
     cursor: pointer;
     background-color: #e74c3c;
 }
-
-
-.homepage-center {
-    position:absolute;
-    top:50%;
-    left:50%;
-
-    width: 400px;
-    height: 400px;
-    margin: -200px 0 0 -200px;
-    text-align: center;
+.separation {
+    clear: both;
+    color: #bdc3c7;
+    border-top-style: solid;
+    border-top-width: 1px;
 }
 
-.resume-heading {
-    margin-top: 80px;
-    margin-bottom: 80px;
-    margin-left: 50px;
+.left-content {
+    float: left;
+    width: 50%;
     margin-right: 50px;
+    font-size: 25px;
+    line-height: 40px;
     overflow: auto;
     text-align: center;
+    color: #d35400;
 }
 
-.resume-pic {
-    width: 175px;
-    height: 175px;
-    color: #bdc3c7;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 200px;
+.right-content {
+    float: left;
+    width: 45%;
+    font-size: 25px;
+    line-height: 40px;
+    overflow: auto;
+    text-align: center;
+    color: #d35400;
 }
 
-.resume-heading-title {
-    margin-top: 25px;
+.beer-image {
+    width: 500px;
+    height: 300px;
     text-align: center;
 }
 
-.resume-heading-title .name {
-    font-size: 50px;
-    color: #2c3e50;
-}
-
-.resume-heading-title .occupation {
-    font-size: 25px;
-    line-height: 35px;
+.header-text {
+    padding-top: 100px;
     color: #7f8c8d;
 }
