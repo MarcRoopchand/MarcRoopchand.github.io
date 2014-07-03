@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/beer.html" afterPath="$PROJECT_DIR$/views/beer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/resume.html" afterPath="$PROJECT_DIR$/views/resume.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common-styles.css" afterPath="$PROJECT_DIR$/css/common-styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +27,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="1" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+            <state line="6" column="4" selection-start="315" selection-end="315" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beer.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/beer.html">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="88" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="2100">
+            <state line="25" column="32" selection-start="366" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common-styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/common-styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="21" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1755">
               <folding />
             </state>
           </provider>
@@ -74,13 +84,13 @@
         <option value="$PROJECT_DIR$/game/game.html" />
         <option value="$PROJECT_DIR$/game/game.css" />
         <option value="$PROJECT_DIR$/views/game.html" />
-        <option value="$PROJECT_DIR$/css/common-styles.css" />
         <option value="$PROJECT_DIR$/css/resume.css" />
         <option value="$PROJECT_DIR$/css/beer.css" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/views/resume.html" />
         <option value="$PROJECT_DIR$/views/beer.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/common-styles.css" />
       </list>
     </option>
   </component>
@@ -206,7 +216,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -278,20 +288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/beer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="20" selection-start="614" selection-end="614" vertical-scroll-proportion="0.34362933" vertical-offset="288" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common-styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="37" selection-start="1380" selection-end="1417" vertical-scroll-proportion="0.6718147" vertical-offset="888" max-vertical-offset="1680">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="30" selection-start="838" selection-end="838" vertical-scroll-proportion="0.55598456" vertical-offset="408" max-vertical-offset="1200">
@@ -306,13 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="226" selection-end="310" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="753">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.9920319" vertical-offset="48" max-vertical-offset="945">
@@ -320,16 +309,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/views/beer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+        <state line="5" column="88" selection-start="345" selection-end="345" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="2100">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/beer.html">
+    <entry file="file://$PROJECT_DIR$/css/beer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="2100">
+        <state line="46" column="38" selection-start="695" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="21" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="366" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="315" selection-end="315" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
           <folding />
         </state>
       </provider>

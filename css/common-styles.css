@@ -92,7 +92,10 @@ header {
     background-color: #e74c3c;
 }
 
-@media screen and (max-width:500px) {
+/* iPhone 5 screen */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
     .header-name {
         width: 100%;
         text-align: center;
@@ -100,8 +103,10 @@ header {
     }
 
     .nav-links {
+        float: left;
         margin: 0;
-        width: 20%;
-        padding-bottom: 25px;
+        padding: 20px 0 20px 0;
+        width: 33%;
+        text-align: center;
     }
 }
