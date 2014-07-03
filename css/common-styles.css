@@ -91,3 +91,17 @@ header {
     cursor: pointer;
     background-color: #e74c3c;
 }
+
+@media screen and (max-width:500px) {
+    .header-name {
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .nav-links {
+        margin: 0;
+        width: 20%;
+        padding-bottom: 25px;
+    }
+}

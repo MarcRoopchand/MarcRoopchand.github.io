@@ -2,7 +2,7 @@
     color: #e74c3c;
     text-align: center;
     font-size: 40px;
-    padding: 100px;
+    padding: 0 0 100px 0;
 }
 
 .left-content {
@@ -27,17 +27,40 @@
 }
 
 .beer-image {
-    width: 500px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     text-align: center;
 }
 
 .header-text {
     padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: #7f8c8d;
 }
 
 .social {
     clear: both;
     padding-top: 30px;
+}
+
+@media screen and (max-width:1000px) {
+    .left-content {
+        margin: 0;
+        width: 100%;
+    }
+
+    .right-content {
+        width: 100%;
+    }
+
+    .beer-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .page-heading {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }

@@ -2,63 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/digg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/dribbble-alt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/drop-box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/ember.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/evernote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/google_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/last-fm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/rdio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/share_this.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/windows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/you-tube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/112 Super Awesome Web Icons - Free Social Icons /64/zerply.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/beer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/beer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/game.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/game.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/game.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/game.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/google_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/game/images/you-tube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/background/about-background.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/background/homepage-background.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/resume-pic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resume.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/beer.css" afterPath="$PROJECT_DIR$/css/beer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common-styles.css" afterPath="$PROJECT_DIR$/css/common-styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/resume.css" afterPath="$PROJECT_DIR$/css/resume.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
@@ -81,26 +28,7 @@
     <favorites_list name="MarcRoopchand.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="game.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/game.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="-33.125" vertical-offset="0" max-vertical-offset="945">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beer.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/beer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="781" selection-end="781" vertical-scroll-proportion="0.3187251" vertical-offset="0" max-vertical-offset="2085">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -133,6 +61,10 @@
         <option value="$PROJECT_DIR$/views/resume.html" />
         <option value="$PROJECT_DIR$/views/game.html" />
         <option value="$PROJECT_DIR$/views/beer.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/common-styles.css" />
+        <option value="$PROJECT_DIR$/css/resume.css" />
+        <option value="$PROJECT_DIR$/css/beer.css" />
       </list>
     </option>
   </component>
@@ -211,7 +143,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,14 +183,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -323,20 +255,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.6374502" vertical-offset="0" max-vertical-offset="753">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="41" selection-start="5928" selection-end="5928" vertical-scroll-proportion="2.3306773" vertical-offset="0" max-vertical-offset="1905">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.6872587" vertical-offset="5973" max-vertical-offset="6750">
@@ -346,7 +264,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/game.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="-33.125" vertical-offset="0" max-vertical-offset="945">
+        <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="1.0557768" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="357" selection-end="357" vertical-scroll-proportion="0.42471042" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="662" selection-end="662" vertical-scroll-proportion="0.27888447" vertical-offset="0" max-vertical-offset="753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/beer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="20" selection-start="614" selection-end="614" vertical-scroll-proportion="0.34362933" vertical-offset="288" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="37" selection-start="1380" selection-end="1417" vertical-scroll-proportion="0.6718147" vertical-offset="888" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/resume.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="30" selection-start="838" selection-end="838" vertical-scroll-proportion="0.55598456" vertical-offset="408" max-vertical-offset="1200">
           <folding />
         </state>
       </provider>
@@ -354,6 +307,13 @@
     <entry file="file://$PROJECT_DIR$/views/beer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="38" selection-start="781" selection-end="781" vertical-scroll-proportion="0.3187251" vertical-offset="0" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="916" selection-end="925" vertical-scroll-proportion="0.33864543" vertical-offset="45" max-vertical-offset="1905">
           <folding />
         </state>
       </provider>

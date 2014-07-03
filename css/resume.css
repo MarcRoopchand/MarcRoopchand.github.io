@@ -51,3 +51,25 @@
     clear: both;
     line-height: 35px;
 }
+
+@media screen and (max-width:1100px) {
+    .container {
+        margin: 30px 15px 0 15px;
+    }
+
+    .left-content {
+        width: 100%;
+        text-align: center;
+    }
+
+    .right-content {
+        width: 100%;
+    }
+
+    .date {
+        clear: both;
+        text-align: center;
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+}
