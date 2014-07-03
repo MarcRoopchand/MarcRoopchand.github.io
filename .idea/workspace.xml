@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/beer.html" afterPath="$PROJECT_DIR$/views/beer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/resume.html" afterPath="$PROJECT_DIR$/views/resume.html" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="beer.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/beer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="66" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="753">
+            <state line="5" column="88" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="2100">
               <folding />
             </state>
           </provider>
@@ -72,14 +73,14 @@
         <option value="$PROJECT_DIR$/beer.css" />
         <option value="$PROJECT_DIR$/game/game.html" />
         <option value="$PROJECT_DIR$/game/game.css" />
-        <option value="$PROJECT_DIR$/views/resume.html" />
         <option value="$PROJECT_DIR$/views/game.html" />
-        <option value="$PROJECT_DIR$/views/beer.html" />
         <option value="$PROJECT_DIR$/css/common-styles.css" />
         <option value="$PROJECT_DIR$/css/resume.css" />
         <option value="$PROJECT_DIR$/css/beer.css" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/views/resume.html" />
+        <option value="$PROJECT_DIR$/views/beer.html" />
       </list>
     </option>
   </component>
@@ -205,7 +206,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -277,13 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/game.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="1.0557768" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/beer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="20" selection-start="614" selection-end="614" vertical-scroll-proportion="0.34362933" vertical-offset="288" max-vertical-offset="1065">
@@ -305,16 +299,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/beer.html">
+    <entry file="file://$PROJECT_DIR$/views/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="781" selection-end="781" vertical-scroll-proportion="0.3187251" vertical-offset="0" max-vertical-offset="2085">
+        <state line="5" column="88" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="1920">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/resume.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="916" selection-end="925" vertical-scroll-proportion="0.33864543" vertical-offset="45" max-vertical-offset="1905">
+        <state line="5" column="88" selection-start="226" selection-end="310" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.9920319" vertical-offset="48" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
@@ -326,9 +327,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/views/beer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="66" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="753">
+        <state line="5" column="88" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="2100">
           <folding />
         </state>
       </provider>
