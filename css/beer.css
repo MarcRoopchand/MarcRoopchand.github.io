@@ -1,0 +1,43 @@
+.page-heading {
+    color: #e74c3c;
+    text-align: center;
+    font-size: 40px;
+    padding: 100px;
+}
+
+.left-content {
+    float: left;
+    width: 50%;
+    margin-right: 50px;
+    font-size: 25px;
+    line-height: 40px;
+    overflow: auto;
+    text-align: center;
+    color: #d35400;
+}
+
+.right-content {
+    float: left;
+    width: 45%;
+    font-size: 25px;
+    line-height: 40px;
+    overflow: auto;
+    text-align: center;
+    color: #d35400;
+}
+
+.beer-image {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+
+.header-text {
+    padding-top: 100px;
+    color: #7f8c8d;
+}
+
+.social {
+    clear: both;
+    padding-top: 30px;
+}

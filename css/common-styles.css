@@ -27,7 +27,7 @@ header {
     padding-top: 23px;
     padding-left: 35px;
     font-size: 25px;
-
+    font-weight: 400;
 }
 
 .header-name:hover {
@@ -54,15 +54,30 @@ header {
     border-top-width: 1px;
 }
 
+.profile {
+    width: 175px;
+    height: 175px;
+    color: #bdc3c7;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 200px;
+    margin-bottom: 20px;
+}
+
+.name {
+    font-size: 50px;
+    color: #2c3e50;
+}
+
+.occupation {
+    font-size: 25px;
+    line-height: 45px;
+    color: #7f8c8d;
+}
+
 .social {
-    position:absolute;
-    width: 300px;
-    height: 60px;
-    left:50%;
-    bottom:0%;
-    margin: 0px 0 0 -150px;
-    padding-bottom: 20px;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .social-icon {
@@ -75,50 +90,4 @@ header {
 .social-icon:hover {
     cursor: pointer;
     background-color: #e74c3c;
-}
-
-
-.homepage-center {
-    position:absolute;
-    top:50%;
-    left:50%;
-
-    width: 400px;
-    height: 400px;
-    margin: -200px 0 0 -200px;
-    text-align: center;
-}
-
-.resume-heading {
-    margin-top: 80px;
-    margin-bottom: 80px;
-    margin-left: 50px;
-    margin-right: 50px;
-    overflow: auto;
-    text-align: center;
-}
-
-.resume-pic {
-    width: 175px;
-    height: 175px;
-    color: #bdc3c7;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 200px;
-}
-
-.resume-heading-title {
-    margin-top: 25px;
-    text-align: center;
-}
-
-.resume-heading-title .name {
-    font-size: 50px;
-    color: #2c3e50;
-}
-
-.resume-heading-title .occupation {
-    font-size: 25px;
-    line-height: 35px;
-    color: #7f8c8d;
 }

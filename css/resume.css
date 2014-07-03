@@ -1,0 +1,53 @@
+.resume-heading {
+    margin: 80px 50px 80px 50px;
+    overflow: auto;
+    text-align: center;
+}
+
+.container {
+    margin: 70px 50px 30px 50px;
+    overflow: auto;
+}
+
+.left-content {
+    overflow: auto;
+    float: left;
+    width: 23%;
+    margin: 0 50px 30px 0;
+
+    font-size: 33px;
+    color: #7f8c8d;
+}
+
+.right-content {
+    overflow: auto;
+    float: left;
+    width: 72%;
+}
+
+.experience {
+    padding-bottom: 30px;
+}
+
+.experience .title-name {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.experience .title-location {
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.date {
+    float: right;
+    font-size: 20px;
+    background-color: #e74c3c;
+    color: #FCFCFC;
+    padding: 15px;
+}
+
+.work-content {
+    clear: both;
+    line-height: 35px;
+}
