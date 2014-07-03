@@ -53,8 +53,16 @@
 }
 
 @media screen and (max-width:1100px) {
+    .name {
+        font-size: 40px;
+    }
+
+    .occupation {
+        font-size: 21px;
+    }
+
     .container {
-        margin: 30px 15px 0 15px;
+        margin: 30px 0 0 0;
     }
 
     .left-content {
@@ -71,5 +79,13 @@
         text-align: center;
         width: 100%;
         margin: 0 0 30px 0;
+    }
+
+    .resume-heading {
+        margin: 60px 0 60px 0;
+    }
+
+    .title-name, .title-location {
+        margin: 0 10px 0 10px;
     }
 }

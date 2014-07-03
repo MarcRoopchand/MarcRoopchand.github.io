@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1360f635-9b33-4c58-b398-9c1f27b1ee8e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/common-styles.css" afterPath="$PROJECT_DIR$/css/common-styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/resume.css" afterPath="$PROJECT_DIR$/css/resume.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MarcRoopchand.github.io.iws" />
@@ -27,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="resume.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="315" selection-end="315" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
+            <state line="15" column="34" selection-start="726" selection-end="740" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1920">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resume.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/resume.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.4980695" vertical-offset="603" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -39,7 +47,7 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="32" selection-start="366" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
+            <state line="53" column="5" selection-start="851" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
               <folding />
             </state>
           </provider>
@@ -48,7 +56,7 @@
       <file leaf-file-name="common-styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/common-styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="21" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1755">
+            <state line="110" column="5" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0" vertical-offset="963" max-vertical-offset="1755">
               <folding />
             </state>
           </provider>
@@ -84,13 +92,13 @@
         <option value="$PROJECT_DIR$/game/game.html" />
         <option value="$PROJECT_DIR$/game/game.css" />
         <option value="$PROJECT_DIR$/views/game.html" />
-        <option value="$PROJECT_DIR$/css/resume.css" />
         <option value="$PROJECT_DIR$/css/beer.css" />
         <option value="$PROJECT_DIR$/views/resume.html" />
         <option value="$PROJECT_DIR$/views/beer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/common-styles.css" />
+        <option value="$PROJECT_DIR$/css/resume.css" />
       </list>
     </option>
   </component>
@@ -288,20 +296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/resume.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="30" selection-start="838" selection-end="838" vertical-scroll-proportion="0.55598456" vertical-offset="408" max-vertical-offset="1200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0996016" vertical-offset="0" max-vertical-offset="1920">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="61" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.9920319" vertical-offset="48" max-vertical-offset="945">
@@ -323,23 +317,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="315" selection-end="315" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="726" selection-end="740" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/common-styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="21" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1755">
+        <state line="110" column="5" selection-start="1729" selection-end="1729" vertical-scroll-proportion="0.0" vertical-offset="963" max-vertical-offset="1755">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="32" selection-start="366" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
+        <state line="53" column="5" selection-start="851" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="315" selection-end="315" vertical-scroll-proportion="0.119521916" vertical-offset="0" max-vertical-offset="753">
+        <state line="66" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.4980695" vertical-offset="603" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
